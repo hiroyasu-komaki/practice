@@ -29,7 +29,7 @@ git push origin feature-branch
 ### 作業完了後、mainブランチの変更を取り込んでから、ブッシュするまで
 
 ```
-# コミット履歴を統合する場合
+# リモートブランチの変更を取り込み
 git fetch origin
 
 git checkout feature-branch
