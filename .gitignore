@@ -23,3 +23,6 @@ Thumbs.db
 # Sensitive information
 .env
 config.yaml
+
+# Data filesData files
+data/audio/
