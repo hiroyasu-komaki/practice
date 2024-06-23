@@ -13,6 +13,7 @@ git fetch origin
 
 # 新しいブランチを作成し、切り替え
 git checkout -b feature-branch origin/main
+git branch --set-upstream-to=origin/feature-branch
 
 # 必要な作業を行う
 # (例: ファイルの追加や修正)
